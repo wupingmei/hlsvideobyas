@@ -1,0 +1,2 @@
+# hlsvideobyas
+使用as3编写一个可以播放hls协议的播放插件
